@@ -100,13 +100,13 @@
 	   <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	     <url>http://16.170.254.76:8081/repository/amz-release/</url>
+	     <url>http://16.170.254.76:8081/repository/flippy-release</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://16.170.254.76:8081/repository/amz-snapshot/</url>
+	      <url>http://16.170.254.76:8081/repository/flippy-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
